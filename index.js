@@ -44,7 +44,7 @@ function makeSound(key) {
       snare.play();
       break;
     default:
-      console.log(buttonInnerHTML);
+      console.log(key);
   }
 }
 
