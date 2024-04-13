@@ -9,9 +9,7 @@ A simple drum kit project built with HTML, CSS, and JavaScript.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Demo](#demo)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -29,6 +27,5 @@ This project is a virtual drum kit that allows users to play different drum soun
 
 You can try out the drum kit online [here](https://drumshk.netlify.app/).
 
-## Usage
 
 
